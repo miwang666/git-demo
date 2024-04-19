@@ -11,3 +11,19 @@ git remote -v
 
 git remote rm 【key】
 删除指定名称为key的中央仓库地址
+
+git clone
+git init
+git add 
+git commit
+git reset
+git branch
+git checkout
+git merge
+git push
+git pull
+
+
+
+HEAD HEAD^  FETCH_HEAD origin/HEAD master origin/master
+以上都是commitID的代名词
